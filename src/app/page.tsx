@@ -13,7 +13,6 @@ export default function Home() {
         {/* About Me Section */}
         <section className="mb-16">
           <h2 className="text-3xl font-semibold border-b-2 border-teal-400 pb-2 mb-6">About Me</h2>
-          {/* eslint-disable-next-line react/no-unescaped-entities */}
           <p className="text-lg leading-relaxed text-gray-300">
             Hello! I'm [Your Name], a passionate developer, creator, and lifelong learner. This is a placeholder text area for your personal introduction. You can talk about your journey, your passions, your skills, or anything else you'd like to share with the world. Keep it engaging and authentic!
           </p>
